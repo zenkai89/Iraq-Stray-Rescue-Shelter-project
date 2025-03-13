@@ -8,12 +8,9 @@ Every day hundreds of cats and dogs die due to hunger, car accidents, and abuse 
 We tried to open a local NGO related to animal rescue and shelter last year but we were delayed till we recently got the approval of it. However, we had a US-based doner but unfortunately due to the recent Trumps decisions our fund was declined and we had to postpone until we find another way to help that vulnerable animal.
 Our project was to build shelters in the urban areas and rent trained workers, workers, vans, and built fences in specific areas that we got approval from the government.
 Finally, I came to conclude that there is another way that we can help them since we have approval for the project and everything in my country for the project, there are other ways that people can donate since Iraq is very restricted in dealing with USD people can donate by Crypto currency which is easier and takes less interest of the transportation and banking. 
-<p>Your donations help us build shelters, provide veterinary care, and rescue more animals. You can donate through traditional methods or cryptocurrency.</p>
+Your donations help us build shelters, provide veterinary care, and rescue more animals. You can donate through traditional methods or cryptocurrency.
 
-
-
-        <a href="#" class="donate-btn">Donate Now</a> USDT (TRC20) 
-        TUtPiFKPpfZujro6Yimbdc76b65CNjNWGz
-
-        Contact: aryankhan89@hotmail.com | Follow us on Social Media
+Donate Now USDT (TRC20) 
+TUtPiFKPpfZujro6Yimbdc76b65CNjNWGz
+Contact: aryankhan89@hotmail.com | Follow us on Social Media
     
