@@ -14,8 +14,6 @@ Finally, I came to conclude that there is another way that we can help them sinc
 
         <a href="#" class="donate-btn">Donate Now</a> USDT (TRC20) 
         TUtPiFKPpfZujro6Yimbdc76b65CNjNWGz
-        
-    </section>
-    <footer>
+
         Contact: aryankhan89@hotmail.com | Follow us on Social Media
     
