@@ -10,7 +10,7 @@ Our project was to build shelters in the urban areas and rent trained workers, w
 Finally, I came to conclude that there is another way that we can help them since we have approval for the project and everything in my country for the project, there are other ways that people can donate since Iraq is very restricted in dealing with USD people can donate by Crypto currency which is easier and takes less interest of the transportation and banking. 
 Your donations help us build shelters, provide veterinary care, and rescue more animals. You can donate through traditional methods or cryptocurrency.
 
-Donate Now USDT (TRC20) address
+Donate Now USDT (TRC20) address:
 
 TUtPiFKPpfZujro6Yimbdc76b65CNjNWGz
 
